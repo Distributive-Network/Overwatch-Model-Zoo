@@ -4,3 +4,4 @@ deepface/deepface.onnx filter=lfs diff=lfs merge=lfs -text
 MNIST/MNIST.onnx filter=lfs diff=lfs merge=lfs -text
 Pose/Pose.onnx filter=lfs diff=lfs merge=lfs -text
 YOLOV5S/YOLOV5S.onnx filter=lfs diff=lfs merge=lfs -text
+FACES/FACES.onnx filter=lfs diff=lfs merge=lfs -text

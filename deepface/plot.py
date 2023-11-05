@@ -1,5 +1,6 @@
 from matplotlib import pyplot as plt
 import cv2 as cv
+import numpy as np
 
 def deepface_plot(inputs, resp):
   for ind, input in enumerate(inputs):
